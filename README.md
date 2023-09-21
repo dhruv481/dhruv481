@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<p align=center>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv481&show_icons=true&theme=react">
+  <br>
+  <br>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv481&layout=compact&theme=react">
+</p>
 
 <!--
 **dhruv481/dhruv481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
